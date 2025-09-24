@@ -112,7 +112,7 @@
 	<key>DeviceProperties</key>
 	<dict>
 		<key>Add</key>
-		<array/>
+		<dict/>
 		<key>Delete</key>
 		<dict/>
 	</dict>
